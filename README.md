@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-I'm Suyog Kulkarni, a tech professional with over 2 years of hands-on experience in both Data Engineering and Web Development. My journey started with a solid educational foundation in Computer Science, and since then, I've been passionate about harnessing technology to create solutions that drive real-world impact. 
+I'm Suyog Kulkarni, a tech professional with hands-on experience in both Data Engineering and Web Development. My journey started with a solid educational foundation in Computer Science, and since then, I've been passionate about harnessing technology to create solutions that drive real-world impact. 
 
 In my role as a Data Engineer, I've optimized data pipelines and architected analytics solutions, while in Web Development, I've crafted user-friendly, responsive web applications. My ability to adapt and collaborate effectively within multi-disciplinary teams has been instrumental in delivering successful projects. I'm an avid learner, always eager to explore emerging technologies and stay ahead in this ever-evolving tech landscape.
 
